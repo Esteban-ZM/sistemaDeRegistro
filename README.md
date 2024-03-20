@@ -5,3 +5,4 @@
 para ejecutar el sistema, debes poner;
 
 "npm install reset"
+sistema de registro 2
